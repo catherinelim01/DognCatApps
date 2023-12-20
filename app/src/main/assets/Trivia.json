@@ -1,0 +1,56 @@
+{
+  "dog": [
+    {
+      "q": "Normal adult dogs have how many teeth?",
+      "a1": "24",
+      "a2": "16",
+      "a3": "42",
+      "a4": "32",
+      "key": "42"
+    },
+    {
+      "q": "Which of these is a large dog known for its strength?",
+      "a1": "Fox Terrier",
+      "a2": "Mastiff",
+      "a3": "Lakeland Terrier",
+      "a4": "Pom-Chi",
+      "key": "Mastiff"
+    },
+    {
+      "q": "Long curly dreadlocks are a feature of which breed?",
+      "a1": "Silky Terrier",
+      "a2": "Blue Healer",
+      "a3": "Mastiff",
+      "a4": "Irish Water Spaniel",
+      "key": "Irish Water Spaniel"
+    }
+  ],
+
+  "cat": [
+    {
+      "q": "What breed of cat has curly hair?",
+      "a1": "The Rex",
+      "a2": "The Balinese",
+      "a3": "The Burmese",
+      "a4": "The Manx",
+      "key": "The Rex"
+    },
+    {
+      "q": "What features does a cat have in common with sharks?",
+      "a1": "Claws",
+      "a2": "Fur",
+      "a3": "A Third Eyelid",
+      "a4": "Two Rows Of Teeth",
+      "key": "A Third Eyelid"
+    },
+    {
+      "q": "Which taste are cats unable to determine?",
+      "a1": "Salty",
+      "a2": "Bitter",
+      "a3": "Sweet",
+      "a4": "Sour",
+      "key": "Sweet"
+    }
+  ]
+
+}
