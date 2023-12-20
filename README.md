@@ -3,7 +3,7 @@ By: Catherine Lim / 20238452,
 Github Link: https://github.com/catherinelim01/DognCatApps
 
 ~
-https://drive.google.com/drive/folders/1lKuD8X2bx8UFP8OIPEOZ80DLFhWcViGp
+![image](https://drive.google.com/uc?id=1yafplyb5SnUa-iU9Dz1tU22i7YuzjiaW)
 
 Each image button in the first page leads to the second page and it will be following the value from what you choose. On the second page, there is a fact about the animal that you choose and there is a next fact button to give you a new fact about the animal. There are also 2 buttons for going back home and a trivia button to go to the third page. On the third page, there are random questions and answers that we can choose and if the answer is true then it will make a toast and the button colour turns green. If the answer is wrong then the button colour will turn red and the toast will appear to tell what is the answer after that all answer buttons will be unable to click and after that the next question button will appear. There are also 2 buttons, home to go back to the first page and generator to go back to the second page.
 
